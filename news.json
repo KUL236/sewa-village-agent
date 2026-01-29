@@ -1,0 +1,15 @@
+[
+  {
+    "id": "welcome",
+    "date": "29/01/2026",
+    "timestamp": 1738187700000,
+    "title_hindi": "SEWA AI Agent शुरू हुआ",
+    "title_english": "SEWA AI Agent Started",
+    "description_hindi": "अब आप Telegram से सीधे वेबसाइट अपडेट कर सकते हैं।",
+    "description_english": "You can now update the website directly from Telegram.",
+    "image": null,
+    "category": "announcement",
+    "priority": "high",
+    "tags": ["ai", "launch", "telegram"]
+  }
+]
